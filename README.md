@@ -1,3 +1,3 @@
-# Trybe-exercicios
+# Repositório de exercicios
 
 Este repositório será utilizado para organizar os exercicios da trybe.
