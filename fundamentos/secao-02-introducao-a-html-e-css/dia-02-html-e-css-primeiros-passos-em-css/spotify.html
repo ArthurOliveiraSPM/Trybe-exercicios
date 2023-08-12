@@ -17,10 +17,14 @@
         }
         .header li{
             list-style: none;
+            margin-right: 15px;
         }
         .header a{
             color: white;
             text-decoration: none;
+        }
+        .header li, ul, img{
+            display: inline;
         }
 
         #info-container{
@@ -35,14 +39,30 @@
             color: white;
             text-decoration: none;
         }        
-        .info-button{
+        .info-buttons-container {
+            width: 360px;
+        }
+        .info-button {
             background-color: black;
             width: 130px;
             padding: 20px;
             border-radius: 25px;
             text-align: center;
-            font-size: 12px;
+            font-size: 13px;
             text-transform: uppercase;
+            margin-right: 10px;
+        }
+
+        #button-left {
+            float: left;
+        }
+
+        #button-right {
+            float: right;
+        }
+
+        #termos {
+            clear: both;
         }
 
         /*FORMA 1: ID - UNICO - UMA VEZ - #
@@ -80,22 +100,30 @@
         </li>
     </div> 
 
-    <div id="info-container">
-    <div>
-    <div>
+<div id="info-container">
         <h1>Aproveite 1 mês grátis de Premium</h1>
-        <h2>Depois, pague somente R$ 21,90/mês. Cancele quando quiser.
-        </h2>
-    </div>
-    <div class="info-buttons-container">
-        <div class="info-button"><a href="https://www.spotify.com/br-pt/purchase/offer/default-trial-1m?country=BR">Começe agora</a></div>
-        <div class="info-button"><a href="https://www.spotify.com/br-pt/premium/?utm_source=br-pt_brand_contextual-desktop_text&utm_medium=paidsearch&utm_campaign=alwayson_latam_br_premiumbusiness_core_brand+contextual-desktop+text+exact+br-pt+google&gad=1&gclid=Cj0KCQjwldKmBhCCARIsAP-0rfzNnnupqMM366fxg0arBJQ3CO_cX1n6tw4XVONRAOjxZtxBseQtlsoaAmzcEALw_wcB&gclsrc=aw.ds#plans">Ver planos</a></div>
-    </div>
-    </div>
+        <h2>Depois, pague somente R$ 21,90/mês. Cancele quando quiser.</h2>
 
-        <div>
+        <div class="info-buttons-container">
+            <div class="info-button" id="button-left">
+                <a href="/br-pt/purchase/offer/default-trial-1m?country=BR">
+                    Comece agora
+                </a>
+            </div>
+            <div class="info-button" id="button-right">
+                <a
+                    href="https://www.spotify.com/br-pt/premium/?utm_source=br-pt_brand_contextual-desktop_text&utm_medium=paidsearch&utm_campaign=alwayson_latam_br_premiumbusiness_core_brand+contextual-desktop+text+exact+br-pt+google&gad=1&gclid=Cj0KCQjwldKmBhCCARIsAP-0rfxj3Zjfs7ZElyHnFJhCpQWvoeLcStI0AcoFdYCK1_-e6o7IK1dabWAaArIUEALw_wcB&gclsrc=aw.ds#plans">
+                    Ver planos
+                </a>
+            </div>
+        </div>
+
+        <div id="termos">
             <p>
-                <a href="O mês grátis não está disponível para usuários que já experimentaram o Premium.">Sujeito a Termos e Condições. </a>
+                <a href="https://www.spotify.com/legal/premium-promotional-offer-terms">
+                    Sujeito a Termos e Condições.
+                </a>
+
                 O mês grátis não está disponível para usuários que já experimentaram o Premium.
             </p>
         </div>
