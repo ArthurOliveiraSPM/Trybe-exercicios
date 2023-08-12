@@ -13,6 +13,7 @@
         }
         .header{
             background-color: black;
+            padding: 20px;
         }
         .header li{
             list-style: none;
@@ -23,7 +24,9 @@
         }
 
         #info-container{
+            color: white;
             background-color: #1d75de;
+            padding: 50px;
         }
         #info-container h1{
             font-size: 40px;
@@ -32,10 +35,23 @@
             color: white;
             text-decoration: none;
         }        
-
+        .info-button{
+            background-color: black;
+            width: 130px;
+            padding: 20px;
+            border-radius: 25px;
+            text-align: center;
+            font-size: 12px;
+            text-transform: uppercase;
+        }
 
         /*FORMA 1: ID - UNICO - UMA VEZ - #
         FORMA 2: CLASSE - MAIS DE UMA VEZ - .
+        */
+
+        /*
+        MARGIN, é da margem pra fora
+        PADDING, é da margem para dentro
         */
     </style>
 
@@ -71,9 +87,9 @@
         <h2>Depois, pague somente R$ 21,90/mês. Cancele quando quiser.
         </h2>
     </div>
-    <div>
-        <div><a href="https://www.spotify.com/br-pt/purchase/offer/default-trial-1m?country=BR">Começe agora</a></div>
-        <div><a href="https://www.spotify.com/br-pt/premium/?utm_source=br-pt_brand_contextual-desktop_text&utm_medium=paidsearch&utm_campaign=alwayson_latam_br_premiumbusiness_core_brand+contextual-desktop+text+exact+br-pt+google&gad=1&gclid=Cj0KCQjwldKmBhCCARIsAP-0rfzNnnupqMM366fxg0arBJQ3CO_cX1n6tw4XVONRAOjxZtxBseQtlsoaAmzcEALw_wcB&gclsrc=aw.ds#plans">Ver planos</a></div>
+    <div class="info-buttons-container">
+        <div class="info-button"><a href="https://www.spotify.com/br-pt/purchase/offer/default-trial-1m?country=BR">Começe agora</a></div>
+        <div class="info-button"><a href="https://www.spotify.com/br-pt/premium/?utm_source=br-pt_brand_contextual-desktop_text&utm_medium=paidsearch&utm_campaign=alwayson_latam_br_premiumbusiness_core_brand+contextual-desktop+text+exact+br-pt+google&gad=1&gclid=Cj0KCQjwldKmBhCCARIsAP-0rfzNnnupqMM366fxg0arBJQ3CO_cX1n6tw4XVONRAOjxZtxBseQtlsoaAmzcEALw_wcB&gclsrc=aw.ds#plans">Ver planos</a></div>
     </div>
     </div>
 
