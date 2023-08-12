@@ -1,0 +1,39 @@
+h1{
+    font-family: sans-serif;
+    width: 65;
+}
+h2{
+    color:green
+}
+body{
+    font-size: 16px;
+    background-color: rgb(255, 400, 200);
+}
+#Description{
+    color: orange;
+}
+#porque{
+    background-color: rgb(240, 300, 100);
+}
+.list-style{
+    background-color: rgb(240, 250, 150);
+    font-style: italic;
+    color: black;
+    line-height: 40px;
+    text-align: left;
+    text-decoration: underline;
+}
+p{
+    font-weight: 600;
+    font-family: arial;
+    font-size: 3em;
+}
+#vermelho{
+    color: red;
+}
+#Amarelo{
+    color: rgba(136, 136, 0, 0.856);
+}
+#laranja{
+    color: orangered;
+}
