@@ -1,0 +1,46 @@
+h1{
+    font-family: sans-serif;
+    width: 65;
+}
+h2{
+    color:green
+}
+body{
+    font-size: 16px;
+    background-color: rgb(255, 400, 200);
+}
+#Description{
+    color: orange;
+}
+#porque{
+    background-color: rgb(240, 300, 100);
+}
+.list-style{
+    background-color: rgb(240, 250, 150);
+    font-style: italic;
+    color: black;
+    line-height: 40px;
+    text-align: left;
+    text-decoration: underline;
+}
+p{
+    font-weight: 20;
+    font-family: arial;
+}
+#vermelho{
+    color: red;
+}
+#Amarelo{
+    color: rgba(136, 136, 0, 0.856);
+}
+#laranja{
+    color: orangered;
+}
+.frutas{
+    color: blue;
+}
+.paragrafos{
+    width: 80%;
+    height: 300px;
+    overflow: auto;
+}
