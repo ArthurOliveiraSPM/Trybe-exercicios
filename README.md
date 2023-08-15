@@ -17,4 +17,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 ##### Seção 2: Indrodução à HTML & CSS
 - [X] 2-1: _Introdução ao HTML_
 - [X] 2-2: _Introdução ao CSS_
-- [] 2-3: _HTML & CSS - Menus e Boxes_
+- [X] 2-3: _HTML & CSS - Menus e Boxes_
+- [X] 2-4: _HTML Semantico_
+- [] 2-5: _Projeto Lessons Learned_
+
