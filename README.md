@@ -12,7 +12,9 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 - [X] 1-1: _Unix & Shell_
 - [X] 1-2: _Git_
-- [ ] 1-3: _Git & GitHub_
+- [X] 1-3: _Git & GitHub_
 
 ##### Seção 2: Indrodução à HTML & CSS
-
+- [X] 2-1: _Introdução ao HTML_
+- [X] 2-2: _Introdução ao CSS_
+- [] 2-3: _HTML & CSS - Menus e Boxes_
