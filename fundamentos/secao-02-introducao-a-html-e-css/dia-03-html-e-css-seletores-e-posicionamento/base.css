@@ -1,0 +1,140 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* FORMA 1: ID - UNICO - UMA VEZ - #
+   FORMA 2: CLASS - MAIS DE UMA VEZ - .
+*/
+
+.header-container {
+    background-color: black;
+    padding: 20px;
+}
+
+li {
+    list-style: none;
+    margin-right: 15px;
+}
+
+.header-container ul, 
+.header-container div, 
+.header-container li, 
+.header-container img {
+    display: inline-block;
+}
+
+#info-container {
+    background-color: rgb(29 117 222);
+    color: white;
+    padding: 50px;
+}
+
+#info-container a,
+.header-container a {
+    color: white;
+    text-decoration: none;
+}
+
+#info-container h1 {
+    font-size: 40px;
+    font-weight: 800;
+}
+
+#info-container h1,
+#info-container h2,
+#info-container div {
+    margin-bottom: 50px;
+}
+
+.info-buttons-container {
+    width: 370px;
+}
+
+.info-button {
+    background-color: black;
+    width: 130px;
+    padding: 20px;
+    border-radius: 25px;
+    text-align: center;
+    font-size: 13px;
+    text-transform: uppercase;
+    margin-right: 10px;
+}
+
+#button-left {
+    float: left;
+}
+
+#button-right {
+    float: right;
+    background-color: transparent;
+    border: white 2px solid;
+}
+
+#termos {
+    clear: both;
+}
+
+.header {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.header div:nth-child(1) {
+    width: 20%;
+}
+
+.header div:nth-child(2) {
+    width: 70%;
+    text-align: left;
+}
+
+
+.porque-ser-premium-container div {
+    display: inline-block;
+    margin: 30px;
+}
+
+.porque-ser-premium-container  {
+    margin: 40px 0;
+    text-align: center;
+}
+
+.porque-ser-premium-container  h2 {
+    margin-bottom: 72px;
+    font-size: 40px;
+}
+
+.songs-container {
+    background-color: #efefef;
+    height: 100vh;
+    padding-top: 40px ;
+}
+
+.songbox {
+    background-color: white;
+    width: 400px;
+    margin: 40px;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.songbox h2 {
+    margin-bottom: 20px;
+}
+
+.songbox a {
+    text-decoration: none;
+    color: #393838;
+    font-size: 1.2rem;
+    
+}
+
+a:hover {
+    color: #1ed760;
+}
