@@ -19,5 +19,12 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [X] 2-2: _Introdução ao CSS_
 - [X] 2-3: _HTML & CSS - Menus e Boxes_
 - [X] 2-4: _HTML Semantico_
-- [] 2-5: _Projeto Lessons Learned_
+- [X] 2-5: _Projeto Lessons Learned_
 
+##### Seção 3: Indrodução à JavaScript
+- [X] 3-1: _Primeiros passos no JavaScript_
+- [] 3-2: _Array e estrutura de repetição_
+- [] 3-3: _Funções_
+- [] 3-4: _Objetos_
+- [] 3-5: _JSON e dia de prática_
+- [] 3-6: _Projeto - Supermercado Pirilampo_
