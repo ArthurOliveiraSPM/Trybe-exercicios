@@ -26,5 +26,13 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [X] 3-2: _Array e estrutura de repetição_
 - [X] 3-3: _Funções_
 - [X] 3-4: _Objetos_
-- [] 3-5: _JSON e dia de prática_
-- [] 3-6: _Projeto - Supermercado Pirilampo_
+- [X] 3-5: _JSON e dia de prática_
+- [X] 3-6: _Projeto - Supermercado Pirilampo_
+
+##### Seção 4: JavaScript: DOM, Eventos e Web Storage
+- [] 3-1: _DOM e seletores_
+- [] 3-2: _Trabalhando com elementos_
+- [] 3-3: _Eventos_
+- [] 3-4: _Wen Storage_
+- [] 3-5: _Projetos - Arte co Pixels_
+- [] 3-6: _Projeto Bonus_
