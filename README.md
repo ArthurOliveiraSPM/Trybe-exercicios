@@ -32,7 +32,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 ##### Seção 4: JavaScript: DOM, Eventos e Web Storage
 - [X] 3-1: _DOM e seletores_
 - [X] 3-2: _Trabalhando com elementos_
-- [] 3-3: _Eventos_
+- [X] 3-3: _Eventos_
 - [] 3-4: _Wen Storage_
 - [] 3-5: _Projetos - Arte co Pixels_
 - [] 3-6: _Projeto Bonus_
