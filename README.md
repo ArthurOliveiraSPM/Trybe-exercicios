@@ -30,9 +30,22 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [X] 3-6: _Projeto - Supermercado Pirilampo_
 
 ##### Seção 4: JavaScript: DOM, Eventos e Web Storage
-- [X] 3-1: _DOM e seletores_
-- [X] 3-2: _Trabalhando com elementos_
-- [X] 3-3: _Eventos_
-- [X] 3-4: _Wen Storage_
-- [] 3-5: _Projetos - Arte co Pixels_
-- [] 3-6: _Projeto Bonus_
+- [X] 4-1: _DOM e seletores_
+- [X] 4-2: _Trabalhando com elementos_
+- [X] 4-3: _Eventos_
+- [X] 4-4: _Wen Storage_
+- [X] 4-5: _Projetos - Arte co Pixels_
+- [] 4-6: _Projeto Bonus_
+
+##### Seção 5: HTML e CSS: Forms, Flexbox e Responsivo
+- [X] 5-1: _HTML & CSS - Forms_
+- [] 5-2: _Bibliotecas JavaScript e Frameworks CSS_
+- [] 5-3: _CSS Flexbox - Parte 1_
+- [] 5-4: _CSS Flexbox - Parte 2_
+- [] 5-5: _Resposividade_
+- [] 5-6: _Projeto = trybeWarts_
+
+##### Seção 6: Introdução à JavaScript ES6 e Testes Unitários
+
+##### Seção 7: Métodos de Array
+
