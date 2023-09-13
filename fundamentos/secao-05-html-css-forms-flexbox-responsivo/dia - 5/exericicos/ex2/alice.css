@@ -1,0 +1,27 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+/* telas pequenas */
+@media screen and (max-width: 400px) {
+  body{
+    background-color: aqua;
+  }
+}
+/* telas media */
+@media screen and (min-width: 401px) and (max-width: 1200px){
+  body{
+    background-color: aquamarine;
+  }
+}
+/* telas grande */
+@media screen and (min-width: 1201px){
+  body{
+    background-color: cornflowerblue;
+  }
+}
