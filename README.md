@@ -42,10 +42,14 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [X] 5-2: _Bibliotecas JavaScript e Frameworks CSS_
 - [X] 5-3: _CSS Flexbox - Parte 1_
 - [X] 5-4: _CSS Flexbox - Parte 2_
-- [] 5-5: _Resposividade_
-- [] 5-6: _Projeto = trybeWarts_
+- [X] 5-5: _Resposividade_
+- [X] 5-6: _Projeto = trybeWarts_
 
 ##### Seção 6: Introdução à JavaScript ES6 e Testes Unitários
+- [X] 5-1: _Fluxo de exeções_
+- [] 5-2: _Primeiros passos Jest_
+- [] 5-3: _Matchers e Cobertura de codigo_
+- [] 5-4: _Projeto: JavaScript Testes Unitarios_
 
 ##### Seção 7: Métodos de Array
 
