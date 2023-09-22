@@ -46,10 +46,15 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [X] 5-6: _Projeto = trybeWarts_
 
 ##### Seção 6: Introdução à JavaScript ES6 e Testes Unitários
-- [X] 5-1: _Fluxo de exeções_
-- [X] 5-2: _Primeiros passos Jest_
-- [X] 5-3: _Matchers e Cobertura de codigo_
-- [] 5-4: _Projeto: JavaScript Testes Unitarios_
+- [X] 6-1: _Fluxo de exeções_
+- [X] 6-2: _Primeiros passos Jest_
+- [X] 6-3: _Matchers e Cobertura de codigo_
+- [X] 6-4: _Projeto: JavaScript Testes Unitarios_
 
 ##### Seção 7: Métodos de Array
-
+- [X] 7-1: _Métodos de Array - map_
+- [] 7-2: _Métodos de Array - filter e sort_
+- [] 7-3: _Métodos de Array - find e forEach_
+- [] 7-4: _Métodos de Array - reduce_
+- [] 7-5: _Live Coding_
+- [] 7-6: _Projeto: Zoo Functions_
