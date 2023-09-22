@@ -52,7 +52,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [X] 6-4: _Projeto: JavaScript Testes Unitarios_
 
 ##### Seção 7: Métodos de Array
-- [] 7-1: _Métodos de Array - map_
+- [X] 7-1: _Métodos de Array - map_
 - [] 7-2: _Métodos de Array - filter e sort_
 - [] 7-3: _Métodos de Array - find e forEach_
 - [] 7-4: _Métodos de Array - reduce_
