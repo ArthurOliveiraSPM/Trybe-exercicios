@@ -53,8 +53,8 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 ##### Seção 7: Métodos de Array
 - [X] 7-1: _Métodos de Array - map_
-- [] 7-2: _Métodos de Array - filter e sort_
-- [] 7-3: _Métodos de Array - find e forEach_
+- [X] 7-2: _Métodos de Array - filter e sort_
+- [X] 7-3: _Métodos de Array - find e forEach_
 - [] 7-4: _Métodos de Array - reduce_
 - [] 7-5: _Live Coding_
 - [] 7-6: _Projeto: Zoo Functions_
