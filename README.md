@@ -35,7 +35,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [X] 4-3: _Eventos_
 - [X] 4-4: _Wen Storage_
 - [X] 4-5: _Projetos - Arte co Pixels_
-- [] 4-6: _Projeto Bonus_
+- [X] 4-6: _Projeto Bonus_
 
 ##### Seção 5: HTML e CSS: Forms, Flexbox e Responsivo
 - [X] 5-1: _HTML & CSS - Forms_
@@ -56,5 +56,36 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [X] 7-2: _Métodos de Array - filter e sort_
 - [X] 7-3: _Métodos de Array - find e forEach_
 - [X] 7-4: _Métodos de Array - reduce_
-- [] 7-5: _Live Coding_
-- [] 7-6: _Projeto: Zoo Functions_
+- [X] 7-5: _Live Coding_
+- [X] 7-6: _Projeto: Zoo Functions_
+
+## Front-End ✅
+##### Seção 1: Introdução ao Frontend e JavaScript assíncrono
+
+- [] 1-1: _Ambiente de desenvolvimento_
+- [] 1-2: _JavaScript Assíncrono - Promises e fetch_
+- [] 1-3: _Revisão - Casa de Câmbio_
+- [] 1-4: _Async, await e testes assíncronos_
+- [] 1-5: _Projeto - iChoveu_
+
+
+##### Seção 2: Introdução ao React
+
+
+##### Seção 3: Aprofundando no React
+
+
+##### Seção 4: Testes automatizados com React Testing Library
+
+
+##### Seção 5: Estilização e Metodologia Ágil
+
+
+##### Seção 6: Gerenciamento de estado com Redux
+
+
+##### Seção 7: Componentes de Classes, Context API e Custom Hooks
+
+##### Seção 8: Projeto - App de Receitas
+
+
