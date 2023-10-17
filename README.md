@@ -65,7 +65,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [X] 1-1: _Ambiente de desenvolvimento_
 - [X] 1-2: _JavaScript Assíncrono - Promises e fetch_
 - [X] 1-3: _Revisão - Casa de Câmbio_
-- [] 1-4: _Async, await e testes assíncronos_
+- [X] 1-4: _Async, await e testes assíncronos_
 - [] 1-5: _Projeto - iChoveu_
 
 
