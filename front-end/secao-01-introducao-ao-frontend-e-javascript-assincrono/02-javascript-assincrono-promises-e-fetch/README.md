@@ -1,3 +1,10 @@
 <!-- Aplicar corretamente operações assíncronas;
 Utilizar Promises para lidar com códigos assíncronos;
-Utilizar a função fetch para fazer requisições externas. -->
+Utilizar a função fetch para fazer requisições externas. 
+
+
+
+
+
+-->
+
