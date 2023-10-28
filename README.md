@@ -70,7 +70,13 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 
 ##### Seção 2: Introdução ao React
-
+- [X] 2-1: _Introdução ao React e ao TypeScript_
+- [X] 2-2: _Componentes React e Props_
+- [X] 2-3: _Avançando em componentes_
+- [X] 2-4: _Revisão - Solar System_
+- [X] 2-5: _Estados e eventos_
+- [] 2-6: _Formularios_
+- [] 2-7: _Projeto - Passowrd Manager_
 
 ##### Seção 3: Aprofundando no React
 
