@@ -75,11 +75,14 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [X] 2-3: _Avançando em componentes_
 - [X] 2-4: _Revisão - Solar System_
 - [X] 2-5: _Estados e eventos_
-- [] 2-6: _Formularios_
-- [] 2-7: _Projeto - Passowrd Manager_
+- [X] 2-6: _Formularios_
+- [X] 2-7: _Projeto - Passowrd Manager_
 
 ##### Seção 3: Aprofundando no React
-
+- [X] 2-1: _React Route_
+- [] 2-2: _useEffect_
+- [] 2-3: _Clonando o Twitter_
+- [] 2-4: _TrybeTunes_
 
 ##### Seção 4: Testes automatizados com React Testing Library
 
