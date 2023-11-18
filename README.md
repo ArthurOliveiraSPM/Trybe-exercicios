@@ -85,7 +85,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [X] 3-4: _TrybeTunes_
 
 ##### Seção 4: Testes automatizados com React Testing Library
-- [] 4-1: _Introdução a React Testing Library_
+- [x] 4-1: _Introdução a React Testing Library_
 - [] 4-2: _RTL: Mocks_
 - [] 4-3: _RTL: Testando com React Router_
 - [] 4-4: _Projeto - Testes em React_
