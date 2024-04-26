@@ -91,13 +91,25 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [X] 4-4: _Projeto - Testes em React_
 
 ##### Seção 5: Estilização e Metodologia Ágil
-
+- [x] 5-1: _Metodologias ágeis_
+- [x] 5-2: _CSS Modules_
+- [X] 5-3: _Stylesd Components_
+- [X] 5-4: _Projeto - Frontend Online Store_
 
 ##### Seção 6: Gerenciamento de estado com Redux
-
+- [x] 6-1: _Introdução ao Redux - O estado global da aplicação_
+- [x] 6-2: _Usando o Redux no React_
+- [X] 6-3: _Revisão - Usando o Redux no React_
+- [X] 6-4: _Usando o Redux no React - Actions Assíncronas_
+- [x] 6-5: _Testes em React e Redux_
+- [X] 6-6: _Projeto - TrybeWallet_
 
 ##### Seção 7: Componentes de Classes, Context API e Custom Hooks
-
+- [x] 7-1: _Componentes de Classes_
+- [x] 7-2: _Context API_
+- [] 7-3: _Hooks Customizados_
+- [] 7-4: _Projeto - StarWars_
 ##### Seção 8: Projeto - App de Receitas
+- [] 8-1: _Projeto - App de Receitas_
 
 
