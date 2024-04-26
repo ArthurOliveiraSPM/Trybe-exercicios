@@ -23,5 +23,3 @@ Para consumir um valor que está armazenado no Context, é necessário importá-
  Provider Pattern.
 
  Esse padrão nada mais é que extrair o Provider, bem como os dados e a lógica, para um componente próprio. Faça isso em sua aplicação e veja que o código ficará mais limpo
-
- 
