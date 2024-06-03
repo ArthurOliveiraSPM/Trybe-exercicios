@@ -107,9 +107,9 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 ##### Seção 7: Componentes de Classes, Context API e Custom Hooks
 - [x] 7-1: _Componentes de Classes_
 - [x] 7-2: _Context API_
-- [] 7-3: _Hooks Customizados_
-- [] 7-4: _Projeto - StarWars_
+- [x] 7-3: _Hooks Customizados_
+- [x] 7-4: _Projeto - StarWars_
 ##### Seção 8: Projeto - App de Receitas
-- [] 8-1: _Projeto - App de Receitas_
+- [x] 8-1: _Projeto - App de Receitas_
 
 
