@@ -109,7 +109,68 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [x] 7-2: _Context API_
 - [x] 7-3: _Hooks Customizados_
 - [x] 7-4: _Projeto - StarWars_
+
 ##### Seção 8: Projeto - App de Receitas
 - [x] 8-1: _Projeto - App de Receitas_
 
+## Back-End ✅
+##### Seção 1: Docker: Utilizando Containers
 
+- [X] 1-1: _Utilizando Containers - Docker_
+- [X] 1-2: _Manipulando Imagens no Docker_
+- [X] 1-3: _Orquestrando Containers com Docker Compose_
+- [X] 1-4: _Projeto - Docker Todo-List_
+
+##### Seção 2: Introdução ao SQL
+- [X] 2-1: _Introdução ao Banco de Dados_
+- [] 2-2: _Como atualizar e remover dados de um banco_
+- [] 2-3: _Relacionamentos - Parte 1_
+- [] 2-4: _Relacionamentos - Parte 2_
+- [] 2-5: _Relacionamentos - Parte 3 e Relatórios Avançados_
+- [] 2-6: _Projeto - Trybefy_
+
+##### Seção 3: Introdução ao desenvolvimento Web com Node.js
+- [] 3-1: _Node.js: Runtime Assíncrono_
+- [] 3-2: _Node.js: API REST com Express_
+- [] 3-3: _Node.js: Testes de Integração_
+- [] 3-4: _Node.js: Express e Moddlewares_
+- [] 3-5: _Node.js: Express e MySQL - Parte 1_
+- [] 3-6: _Node.js: Express e MySQL - Parte 2_
+- [] 3-7: _Projeto - Talk Manager_
+
+##### Seção 4: Arquitetura de Software: Model, Service e Controller
+- [] 4-1: _Arquitetura de Software: Camada Model_
+- [] 4-2: _Arquitetura de Software: Refatorando Camada Model_
+- [] 4-3: _Arquitetura de Software: Camada Service_
+- [] 4-4: _Arquitetura de Software: Refatorando Camada Service_
+- [] 4-5: _Arquitetura de Software: Refatorando Camada Controller_
+- [] 4-6: _Projeto - Store Manager_
+
+##### Seção 5: Node.js: ORM e Autenticação
+- [] 5-1: _ORM - Interface da aplicação com o banco de dados_
+- [] 5-2: _ORM - Associations 1:1 e 1:N_
+- [] 5-3: _ORM - Associations N:N e Transactions_
+- [] 5-4: _JWT - JSON Web Token_
+- [] 5-5: _Projeto - API de Blogs_
+
+##### Seção 6: Masterclass: Implantação de Aplicações na Nuvem
+- [] 6-1: _Infraestrutura: Deploy com Railway_
+
+##### Seção 7: Introdução a TypeScript
+- [] 7-1: _Aprendendo TypeScript_
+- [] 7-2: _Introdução a Generics_
+- [] 7-3: _API REST com Express, JWT, Sequelize e TypeScript_
+- [] 7-4: _Testando Aplicações com TypeScript_
+- [] 7-5: _Projeto - Trybesmith_
+
+##### Seção 8: Programação Orientada a Objetos (POO) e SOLID
+- [] 8-1: _Introdução à Orientação a Objetos_
+- [] 8-2: _Herança e Composição_
+- [] 8-3: _Polimorfismo_
+- [] 8-4: _SOLID - Introdução e Princípios S, O e D_
+- [] 8-5: _SOLID - Princípios L e I_
+- [] 8-6: _Projeto - Trybers and Dragons_
+
+##### Seção 9: Projeto - TFC - Trybe Futebol Clube
+- [] 8-1: _Express com Classes_
+- [] 9-2: _Projeto - TFC - Trybe Futebol Clube_
