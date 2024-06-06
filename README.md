@@ -15,6 +15,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [X] 1-3: _Git & GitHub_
 
 ##### Seção 2: Indrodução à HTML & CSS
+
 - [X] 2-1: _Introdução ao HTML_
 - [X] 2-2: _Introdução ao CSS_
 - [X] 2-3: _HTML & CSS - Menus e Boxes_
@@ -22,6 +23,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [X] 2-5: _Projeto Lessons Learned_
 
 ##### Seção 3: Indrodução à JavaScript
+
 - [X] 3-1: _Primeiros passos no JavaScript_
 - [X] 3-2: _Array e estrutura de repetição_
 - [X] 3-3: _Funções_
@@ -30,6 +32,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [X] 3-6: _Projeto - Supermercado Pirilampo_
 
 ##### Seção 4: JavaScript: DOM, Eventos e Web Storage
+
 - [X] 4-1: _DOM e seletores_
 - [X] 4-2: _Trabalhando com elementos_
 - [X] 4-3: _Eventos_
@@ -38,6 +41,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [X] 4-6: _Projeto Bonus_
 
 ##### Seção 5: HTML e CSS: Forms, Flexbox e Responsivo
+
 - [X] 5-1: _HTML & CSS - Forms_
 - [X] 5-2: _Bibliotecas JavaScript e Frameworks CSS_
 - [X] 5-3: _CSS Flexbox - Parte 1_
@@ -46,12 +50,14 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [X] 5-6: _Projeto = trybeWarts_
 
 ##### Seção 6: Introdução à JavaScript ES6 e Testes Unitários
+
 - [X] 6-1: _Fluxo de exeções_
 - [X] 6-2: _Primeiros passos Jest_
 - [X] 6-3: _Matchers e Cobertura de codigo_
 - [X] 6-4: _Projeto: JavaScript Testes Unitarios_
 
 ##### Seção 7: Métodos de Array
+
 - [X] 7-1: _Métodos de Array - map_
 - [X] 7-2: _Métodos de Array - filter e sort_
 - [X] 7-3: _Métodos de Array - find e forEach_
@@ -60,6 +66,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [X] 7-6: _Projeto: Zoo Functions_
 
 ## Front-End ✅
+
 ##### Seção 1: Introdução ao Frontend e JavaScript assíncrono
 
 - [X] 1-1: _Ambiente de desenvolvimento_
@@ -68,8 +75,8 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [X] 1-4: _Async, await e testes assíncronos_
 - [X] 1-5: _Projeto - iChoveu_
 
-
 ##### Seção 2: Introdução ao React
+
 - [X] 2-1: _Introdução ao React e ao TypeScript_
 - [X] 2-2: _Componentes React e Props_
 - [X] 2-3: _Avançando em componentes_
@@ -79,24 +86,28 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [X] 2-7: _Projeto - Passowrd Manager_
 
 ##### Seção 3: Aprofundando no React
+
 - [X] 3-1: _React Route_
 - [X] 3-2: _useEffect_
 - [X] 3-3: _Clonando o Twitter_
 - [X] 3-4: _TrybeTunes_
 
 ##### Seção 4: Testes automatizados com React Testing Library
+
 - [x] 4-1: _Introdução a React Testing Library_
 - [x] 4-2: _RTL: Mocks_
 - [X] 4-3: _RTL: Testando com React Router_
 - [X] 4-4: _Projeto - Testes em React_
 
 ##### Seção 5: Estilização e Metodologia Ágil
+
 - [x] 5-1: _Metodologias ágeis_
 - [x] 5-2: _CSS Modules_
 - [X] 5-3: _Stylesd Components_
 - [X] 5-4: _Projeto - Frontend Online Store_
 
 ##### Seção 6: Gerenciamento de estado com Redux
+
 - [x] 6-1: _Introdução ao Redux - O estado global da aplicação_
 - [x] 6-2: _Usando o Redux no React_
 - [X] 6-3: _Revisão - Usando o Redux no React_
@@ -105,15 +116,18 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [X] 6-6: _Projeto - TrybeWallet_
 
 ##### Seção 7: Componentes de Classes, Context API e Custom Hooks
+
 - [x] 7-1: _Componentes de Classes_
 - [x] 7-2: _Context API_
 - [x] 7-3: _Hooks Customizados_
 - [x] 7-4: _Projeto - StarWars_
 
 ##### Seção 8: Projeto - App de Receitas
+
 - [x] 8-1: _Projeto - App de Receitas_
 
 ## Back-End ✅
+
 ##### Seção 1: Docker: Utilizando Containers
 
 - [X] 1-1: _Utilizando Containers - Docker_
@@ -122,6 +136,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [X] 1-4: _Projeto - Docker Todo-List_
 
 ##### Seção 2: Introdução ao SQL
+
 - [X] 2-1: _Introdução ao Banco de Dados_
 - [] 2-2: _Como atualizar e remover dados de um banco_
 - [] 2-3: _Relacionamentos - Parte 1_
@@ -130,6 +145,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [] 2-6: _Projeto - Trybefy_
 
 ##### Seção 3: Introdução ao desenvolvimento Web com Node.js
+
 - [] 3-1: _Node.js: Runtime Assíncrono_
 - [] 3-2: _Node.js: API REST com Express_
 - [] 3-3: _Node.js: Testes de Integração_
@@ -139,6 +155,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [] 3-7: _Projeto - Talk Manager_
 
 ##### Seção 4: Arquitetura de Software: Model, Service e Controller
+
 - [] 4-1: _Arquitetura de Software: Camada Model_
 - [] 4-2: _Arquitetura de Software: Refatorando Camada Model_
 - [] 4-3: _Arquitetura de Software: Camada Service_
@@ -147,6 +164,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [] 4-6: _Projeto - Store Manager_
 
 ##### Seção 5: Node.js: ORM e Autenticação
+
 - [] 5-1: _ORM - Interface da aplicação com o banco de dados_
 - [] 5-2: _ORM - Associations 1:1 e 1:N_
 - [] 5-3: _ORM - Associations N:N e Transactions_
@@ -154,9 +172,11 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [] 5-5: _Projeto - API de Blogs_
 
 ##### Seção 6: Masterclass: Implantação de Aplicações na Nuvem
+
 - [] 6-1: _Infraestrutura: Deploy com Railway_
 
 ##### Seção 7: Introdução a TypeScript
+
 - [] 7-1: _Aprendendo TypeScript_
 - [] 7-2: _Introdução a Generics_
 - [] 7-3: _API REST com Express, JWT, Sequelize e TypeScript_
@@ -164,6 +184,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [] 7-5: _Projeto - Trybesmith_
 
 ##### Seção 8: Programação Orientada a Objetos (POO) e SOLID
+
 - [] 8-1: _Introdução à Orientação a Objetos_
 - [] 8-2: _Herança e Composição_
 - [] 8-3: _Polimorfismo_
@@ -172,5 +193,6 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [] 8-6: _Projeto - Trybers and Dragons_
 
 ##### Seção 9: Projeto - TFC - Trybe Futebol Clube
-- [] 8-1: _Express com Classes_
+
+- [] 9-1: _Express com Classes_
 - [] 9-2: _Projeto - TFC - Trybe Futebol Clube_
