@@ -1,0 +1,15 @@
+{
+  "name": "01",
+  "version": "1.0.0",
+  "description": "Utilizar os comandos do npm para criar e gerenciar pacotes e dependências;",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Arthur",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "1.4.10"
+  }
+}
