@@ -138,15 +138,15 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 ##### Seção 2: Introdução ao SQL
 
 - [X] 2-1: _Introdução ao Banco de Dados_
-- [] 2-2: _Como atualizar e remover dados de um banco_
-- [] 2-3: _Relacionamentos - Parte 1_
-- [] 2-4: _Relacionamentos - Parte 2_
-- [] 2-5: _Relacionamentos - Parte 3 e Relatórios Avançados_
-- [] 2-6: _Projeto - Trybefy_
+- [x] 2-2: _Como atualizar e remover dados de um banco_
+- [x] 2-3: _Relacionamentos - Parte 1_
+- [x] 2-4: _Relacionamentos - Parte 2_
+- [x] 2-5: _Relacionamentos - Parte 3 e Relatórios Avançados_
+- [x] 2-6: _Projeto - Trybefy_
 
 ##### Seção 3: Introdução ao desenvolvimento Web com Node.js
 
-- [] 3-1: _Node.js: Runtime Assíncrono_
+- [x] 3-1: _Node.js: Runtime Assíncrono_
 - [] 3-2: _Node.js: API REST com Express_
 - [] 3-3: _Node.js: Testes de Integração_
 - [] 3-4: _Node.js: Express e Moddlewares_
