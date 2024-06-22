@@ -4,7 +4,9 @@
     "@testing-library/react": "^14.1.2",
     "@testing-library/user-event": "^14.5.1",
     "@types/jest": "^29.5.8",
+    "chai": "4.3.4",
     "jsdom": "^22.1.0",
+    "mocha": "8.4.0",
     "vitest": "^0.34.6"
   }
 }
