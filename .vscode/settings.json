@@ -3,4 +3,7 @@
     "python": "python3 -u"
 },
 "code-runner.runInTerminal": true,
+"[python]": {
+  "editor.defaultFormatter": "ms-python.black-formatter"
+},
 }
