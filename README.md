@@ -147,52 +147,52 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 ##### Seção 3: Introdução ao desenvolvimento Web com Node.js
 
 - [x] 3-1: _Node.js: Runtime Assíncrono_
-- [] 3-2: _Node.js: API REST com Express_
-- [] 3-3: _Node.js: Testes de Integração_
-- [] 3-4: _Node.js: Express e Moddlewares_
-- [] 3-5: _Node.js: Express e MySQL - Parte 1_
-- [] 3-6: _Node.js: Express e MySQL - Parte 2_
-- [] 3-7: _Projeto - Talk Manager_
+- [x] 3-2: _Node.js: API REST com Express_
+- [x] 3-3: _Node.js: Testes de Integração_
+- [x] 3-4: _Node.js: Express e Moddlewares_
+- [x] 3-5: _Node.js: Express e MySQL - Parte 1_
+- [x] 3-6: _Node.js: Express e MySQL - Parte 2_
+- [x] 3-7: _Projeto - Talk Manager_
 
 ##### Seção 4: Arquitetura de Software: Model, Service e Controller
 
-- [] 4-1: _Arquitetura de Software: Camada Model_
-- [] 4-2: _Arquitetura de Software: Refatorando Camada Model_
-- [] 4-3: _Arquitetura de Software: Camada Service_
-- [] 4-4: _Arquitetura de Software: Refatorando Camada Service_
-- [] 4-5: _Arquitetura de Software: Refatorando Camada Controller_
-- [] 4-6: _Projeto - Store Manager_
+- [x] 4-1: _Arquitetura de Software: Camada Model_
+- [x] 4-2: _Arquitetura de Software: Refatorando Camada Model_
+- [x] 4-3: _Arquitetura de Software: Camada Service_
+- [x] 4-4: _Arquitetura de Software: Refatorando Camada Service_
+- [x] 4-5: _Arquitetura de Software: Refatorando Camada Controller_
+- [x] 4-6: _Projeto - Store Manager_
 
 ##### Seção 5: Node.js: ORM e Autenticação
 
-- [] 5-1: _ORM - Interface da aplicação com o banco de dados_
-- [] 5-2: _ORM - Associations 1:1 e 1:N_
-- [] 5-3: _ORM - Associations N:N e Transactions_
-- [] 5-4: _JWT - JSON Web Token_
-- [] 5-5: _Projeto - API de Blogs_
+- [x] 5-1: _ORM - Interface da aplicação com o banco de dados_
+- [x] 5-2: _ORM - Associations 1:1 e 1:N_
+- [x] 5-3: _ORM - Associations N:N e Transactions_
+- [x] 5-4: _JWT - JSON Web Token_
+- [x] 5-5: _Projeto - API de Blogs_
 
 ##### Seção 6: Masterclass: Implantação de Aplicações na Nuvem
 
-- [] 6-1: _Infraestrutura: Deploy com Railway_
+- [x] 6-1: _Infraestrutura: Deploy com Railway_
 
 ##### Seção 7: Introdução a TypeScript
 
-- [] 7-1: _Aprendendo TypeScript_
-- [] 7-2: _Introdução a Generics_
-- [] 7-3: _API REST com Express, JWT, Sequelize e TypeScript_
-- [] 7-4: _Testando Aplicações com TypeScript_
-- [] 7-5: _Projeto - Trybesmith_
+- [x] 7-1: _Aprendendo TypeScript_
+- [x] 7-2: _Introdução a Generics_
+- [x] 7-3: _API REST com Express, JWT, Sequelize e TypeScript_
+- [x] 7-4: _Testando Aplicações com TypeScript_
+- [x] 7-5: _Projeto - Trybesmith_
 
 ##### Seção 8: Programação Orientada a Objetos (POO) e SOLID
 
-- [] 8-1: _Introdução à Orientação a Objetos_
-- [] 8-2: _Herança e Composição_
-- [] 8-3: _Polimorfismo_
-- [] 8-4: _SOLID - Introdução e Princípios S, O e D_
-- [] 8-5: _SOLID - Princípios L e I_
-- [] 8-6: _Projeto - Trybers and Dragons_
+- [x] 8-1: _Introdução à Orientação a Objetos_
+- [x] 8-2: _Herança e Composição_
+- [x] 8-3: _Polimorfismo_
+- [x] 8-4: _SOLID - Introdução e Princípios S, O e D_
+- [x] 8-5: _SOLID - Princípios L e I_
+- [x] 8-6: _Projeto - Trybers and Dragons_
 
 ##### Seção 9: Projeto - TFC - Trybe Futebol Clube
 
-- [] 9-1: _Express com Classes_
-- [] 9-2: _Projeto - TFC - Trybe Futebol Clube_
+- [x] 9-1: _Express com Classes_
+- [x] 9-2: _Projeto - TFC - Trybe Futebol Clube_
