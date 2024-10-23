@@ -225,3 +225,34 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [x] 4-1: _Hashmap e Dict_
 - [x] 4-2: _Set_
 - [x] 4-3: _Projeto Restaurant Orders_
+
+## Eletiva Android
+
+##### Seção 1: Fundamentos de Kotlin
+
+- [] 1-1: _IntelliJ e Kotlin_
+- [] 1-2: _Aula ao vivo_
+- [] 1-3: _Kotlin Básico_
+- [] 1-4: _Coleções e HOFs_
+- [] 1-5: _Kotlin Playground I_
+
+##### Seção 2: Orientação a Objetos com Kotlin
+
+- [] 2-1: _Classes, construtores e modificadores de acesso_
+- [] 2-2: _Data class, Enumeráveis e objetos_
+- [] 2-3: _Delegações e Herança_
+- [] 2-4: _Kotlin Playground II_
+
+##### Seção 3: Fundamentos Desenvolvimento Android
+
+- [] 3-1: _Android Studio_
+- [] 3-2: _Fundamentos de um Aplicativo Android_
+- [] 3-3: _Gerenciadores de Layout e Componentes Visuais_
+- [] 3-4: _Projeto - Tela de Login_
+
+##### Seção 4: Múltiplas Activities
+
+- [] 4-1: _Exibindo uma Lista com RecyclerView_
+- [] 4-2: _Ciclo de Vida de Activities_
+- [] 4-3: _Navegação entre Telas_
+- [] 4-4: _Projeto - Trybe Virtual Menu_
