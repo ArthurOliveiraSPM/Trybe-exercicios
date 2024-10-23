@@ -230,7 +230,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 ##### Seção 1: Fundamentos de Kotlin
 
-- [] 1-1: _IntelliJ e Kotlin_
+- [x] 1-1: _IntelliJ e Kotlin_
 - [] 1-2: _Aula ao vivo_
 - [] 1-3: _Kotlin Básico_
 - [] 1-4: _Coleções e HOFs_
