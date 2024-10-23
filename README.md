@@ -200,24 +200,28 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 ## Ciencia-da-Computação ✅
 
 ##### Seção 1: Introdução à Python
+
 - [x] 1-1: _Aprendendo Python_
 - [x] 1-2: _Entrada e Saída de Dados com Testes_
 - [x] 1-3: _P.O.O em Python_
 - [x] 1-4: _Projeto - Job Insights_
 
 ##### Seção 2: Algoritimos
+
 - [x] 2-1: _Complexidade de Algoritimos_
 - [x] 2-2: _Recursividade e Estratégias para Solução de Problemas_
 - [x] 2-3: _Algoritimos de ordenação e busca_
 - [x] 2-4: _Projeto - Algoritimos_
 
 ##### Seção 3: Estrutura de Dados I: Listas Lineares
+
 - [x] 3-1: _Arrays_
 - [x] 3-2: _Nó e Lista Encadeadas_
 - [x] 3-3: _Pilhas e Filas_
 - [x] 3-4: _Projeto TING - Trybe Is Not Google_
 
 ##### Seção 4: Estrutura de Dados II: Hashmaps e Sets
+
 - [x] 4-1: _Hashmap e Dict_
 - [x] 4-2: _Set_
 - [x] 4-3: _Projeto Restaurant Orders_
